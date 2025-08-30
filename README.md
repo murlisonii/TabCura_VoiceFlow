@@ -5,7 +5,9 @@ This Repo includes TabCura + Plug & Play Voice Agent (STT → LLM → TTS).
 Visit Url : https://9000-firebase-voiceflow-studio-h-1756551157585.cluster-mwsteha33jfdowtvzffztbjcj6.cloudworkstations.dev/?monospaceUid=682807
 
 VoiceFlow GitHub : https://github.com/murlisonii/VoiceFlow_Studio
-
+for execution VoiceFlow Studio:
+Create .env file and add API key following this: 
+GEMINI_API_KEY=your_gemini_api_key
 
 # TabCura - Healthcare Management System
 
@@ -299,7 +301,7 @@ json
 
 1. *Clone and Branch*
    bash
-   git clone https://github.com/yourusername/TabCura.git
+   git clone https://github.com/murlisonii/TabCura_VoiceFlow.git
    cd TabCura
    git checkout -b feature/your-feature
    
